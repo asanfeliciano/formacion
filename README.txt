@@ -1,4 +1,1 @@
-
-de nuevo modificamos el readme
-
-modificado
+MODIFICADO POR JANE
